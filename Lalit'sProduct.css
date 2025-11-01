@@ -1,0 +1,18 @@
+button {
+    background-color:rgb(144, 150, 164);
+}  
+
+body {  
+    background-color:rgba(187, 181, 243, 0.543);
+}
+
+ul.navbar li:hover {
+    background-color: #96a2bd; /* Amazon-style blue hover */
+    }
+
+navbar {
+    color: aqua;
+}    
+h1 {
+    color:rgba(26, 4, 135, 0.655);
+     }
